@@ -1,4 +1,4 @@
-# PynPortal_CalendarCateories
+# PynPortal_CalendarCategories
 Calendar Color Keys updated for the calendar the categories on pynportal?
 
 Prerequisites: 
