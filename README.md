@@ -25,6 +25,7 @@ WHERE contractorCalendarID = 1;
 UPDATE contractorCalendar
 SET contractor = 'Participant Payroll'
 WHERE contractorCalendarID = 2;
+
 •	
 UPDATE contractorCalendar
 SET contractor = 'WorkReady Summer Programmatic'
@@ -38,6 +39,7 @@ WHERE contractorCalendarID = 4;
 UPDATE contractorCalendar
 SET contractor = 'Out-of-School Time (OST) Programmatic'
 WHERE contractorCalendarID = 5;
+
 •	
 UPDATE contractorCalendar
 SET contractor = 'School-year Experiences'
